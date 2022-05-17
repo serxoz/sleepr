@@ -1,4 +1,4 @@
-# sleeper
+# sleepr
 
 Sleep between random seconds. For example:
 ```sh

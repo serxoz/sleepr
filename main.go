@@ -17,9 +17,9 @@ var (
 
 func printHelp() {
 	fmt.Println("Usage:")
-	fmt.Println("sleepr\t\tsleeps random minutes between 0 and 10")
-	fmt.Println("sleepr foo\t\tsleeps random minutes between 0 and foo")
-	fmt.Println("sleepr bar foo\t\tsleeps random minutes between bar and foo")
+	fmt.Println("sleepr\t\tsleeps random seconds between 0 and 10")
+	fmt.Println("sleepr foo\t\tsleeps random seconds between 0 and foo")
+	fmt.Println("sleepr bar foo\t\tsleeps random seconds between bar and foo")
 }
 
 func main() {
